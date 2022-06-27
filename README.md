@@ -47,7 +47,7 @@ The starter files + solutions will be updated if/when the videos are updated.
 Thanks!
 
 <hr>
-# JS30
+<h2><u>JS30</u></h2>
 
 ### Build 30 things in 30 days with 30 tutorials course by Wes Bos.
 
